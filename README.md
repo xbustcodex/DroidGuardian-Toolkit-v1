@@ -1,3 +1,8 @@
+![DroidGuardian Toolkit](./droidguardian_banner.png)
+[![Version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/xbustcodex/DroidGuardian-Toolkit-v1.0)
+[![Shell](https://img.shields.io/badge/shell-bash-green.svg)](#)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Termux-orange.svg)](#)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 # DroidGuardian Toolkit v1.0 🛡️  
 Android Device Health, Security & Privacy Auditor (Termux)
 
