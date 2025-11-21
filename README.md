@@ -77,7 +77,7 @@ Inside Termux:
 
 ```bash
 cd ~
-curl -O https://raw.githubusercontent.com/xbustcodex/DroidGuardian-Toolkit-v1.0/main/droidguardian.sh
+curl -O https://raw.githubusercontent.com/xbustcodex/DroidGuardian-Toolkit-v1/main/droidguardian.sh
 chmod +x droidguardian.sh
 ```
 
